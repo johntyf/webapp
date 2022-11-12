@@ -1820,6 +1820,25 @@
       },
       "image": "https://obrazki.elektroda.pl/6540960600_1668021484.webp",
       "wiki": "https://www.elektroda.com/rtvforum/topic3932742.html"
-    }
+    },
+    {
+      "vendor": "DETA",
+      "bDetailed": "0",
+      "name": "Smart Triple Switch Series 2",
+      "model": "6903HA",
+      "chip": "BK7231T",
+      "pins": {
+        "1": "WifiLED_n;1",
+        "8": "Relay;1",
+        "9": "Button;2",
+        "10": "Button;3",
+        "14": "Button;1",
+        "24": "Relay;3"
+        "26": "Relay;2"
+      },
+      "image": "https://obrazki.elektroda.pl/2503483500_1668223325.png",
+      "wiki": ""
+    },
+	
   ]
 }
